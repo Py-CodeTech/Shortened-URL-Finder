@@ -1,6 +1,7 @@
 Version : 1.0
 
 [*] Note : Go To Release Tag To Download The File [*]
+[OS : WINDOWS]
 
 How To Use :-
 
