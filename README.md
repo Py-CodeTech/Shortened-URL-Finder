@@ -1,6 +1,6 @@
 Version : 1.0
 
-[*] Note : Go To Release Tag To Download The File [*]
+[*] Note : Go To Release Tag To Download The File : https://github.com/Py-CodeTech/Shortened-URL-Finder/tags [*]
 [OS : WINDOWS]
 
 How To Use :-
